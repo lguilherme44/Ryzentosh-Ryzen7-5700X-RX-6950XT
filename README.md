@@ -9,6 +9,8 @@ Processador: Ryzen 7 5700X
 GPU: Sapphire RX 6950 XT Nitro+ Pure
 Placa PCI-e Wi-Fi 6 AX200 (Device ID: 0x2723)
 
+Obs: Não atualize a versão do HeliPort.
+
 O que funciona?
 
 RX 6950XT
