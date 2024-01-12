@@ -9,6 +9,8 @@ IMPORTANTE: Este projeto é dedicado a fins educacionais e de experimentação. 
 - GPU: Sapphire RX 6950 XT Nitro+ Pure
 - Placa PCI-e Wi-Fi 6 AX200 (Device ID: 0x2723)
 
+S.O Sonoma 14.2.1 (23C71)
+
 Obs: Não atualize a versão do HeliPort.
 
 ## O que funciona?
