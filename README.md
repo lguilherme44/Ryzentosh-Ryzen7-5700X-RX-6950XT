@@ -1,4 +1,4 @@
-Ryzentosh Hackintosh Build
+Ryzentosh Build
 
 IMPORTANTE: Este projeto é dedicado a fins educacionais e de experimentação. Certifique-se de cumprir todas as leis e regulamentos de software ao criar e usar um Ryzentosh.
 
