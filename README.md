@@ -20,7 +20,6 @@ Obs: Não atualize a versão do HeliPort.
 - Audio
 
 ![image](https://github.com/lguilherme44/Ryzentosh-Ryzen-5700X-RX-6950XT/assets/18725901/ed575ed7-6241-4b13-8289-a6c9c6d51325)
-![image](https://github.com/lguilherme44/Ryzentosh-Ryzen-5700X-RX-6950XT/assets/18725901/ab154eac-2600-46e9-bbab-4283fc10606b)
 
 O que não funciona?
 - Ainda não sei, até o momento 100%.
